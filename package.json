@@ -1,0 +1,16 @@
+{
+  "name": "margaritas-restaurant-website",
+  "version": "1.0.0",
+  "description": "Website for Margaritas Restaurant — Bayswater, Bloemfontein",
+  "private": true,
+  "scripts": {
+    "start": "npx http-server . -p 8080 -c-1",
+    "dev": "npx http-server . -p 8080 -c-1 -o"
+  },
+  "keywords": [
+    "restaurant",
+    "static-site",
+    "margaritas"
+  ],
+  "license": "UNLICENSED"
+}
